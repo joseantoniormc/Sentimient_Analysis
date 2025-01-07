@@ -13,7 +13,7 @@ Sample data statistics:
 - Training set: 2547 reviews
 - Validation set: 318 reviews
 - Test set: 319 reviews
-<img src="./imgs/cloud.png">
+<img src="./img/cloud.png">
 
 ## Modeling
 The project uses an RNN architecture with the following components:
@@ -22,7 +22,7 @@ The project uses an RNN architecture with the following components:
 3. **Dropout**: Prevents overfitting.
 4. **Fully Connected Layer**: Outputs a single sentiment score (0 for negative, 1 for positive).
 
-<img src="./imgs/rnndiagram.png">
+<img src="./img/rnndiagram.png">
 
 ## Learning
 Training involved:
